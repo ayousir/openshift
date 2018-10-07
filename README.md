@@ -12,6 +12,7 @@
 
 
 # v2ray 部署在 openshift starter
+ 
 严禁任何网友在任何网站上宣传，否则产生的一切后果自行承担。
 
 环境变量： CONFIG_JSON（配置）、
